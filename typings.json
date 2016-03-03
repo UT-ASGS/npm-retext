@@ -1,0 +1,8 @@
+{
+  "name": "typed-retext",
+  "main": "index.d.ts",
+  "dependencies": {
+    "vfile": "github:UT-ASGS/npm-vfile",
+    "unified": "github:UT-ASGS/npm-unified"
+  }
+}
