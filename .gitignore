@@ -5,3 +5,5 @@ typings/
 node_modules/
 
 .vscode/
+
+*.js

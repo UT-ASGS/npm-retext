@@ -1,0 +1,19 @@
+{
+  "name": "typed-retext",
+  "version": "1.0.0",
+  "description": "The type definition for [`retext`](https://github.com/wooorm/retext).",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "retext": "^2.0.0",
+    "retext-cliches": "^1.0.0",
+    "retext-english": "^1.0.1",
+    "retext-keywords": "^1.0.1",
+    "retext-sentiment": "^1.0.0",
+    "retext-simplify": "^1.2.0"
+  }
+}
